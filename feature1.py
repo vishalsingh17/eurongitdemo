@@ -7,3 +7,7 @@ def logout():
 ## more features added
 
 ## changes made as suggested by senior developer
+
+# feature1 added
+# feature2 added
+# feature3 added
